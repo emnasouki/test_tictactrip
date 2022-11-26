@@ -42,9 +42,9 @@ L'idée principale est de réaliser l'analyse des données de voyage fournies pa
 
 ### Construit avec
 
-* [Jupyter](https://www.python.org/](https://jupyter.org/)
-* [Pandas](https://github.com/kevinzg/facebook-scraper](https://pandas.pydata.org/)
-* [scikit-learn](https://www.mongodb.com/](https://scikit-learn.org/stable/)
+* [Jupyter](https://jupyter.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [scikit-learn](https://scikit-learn.org/stable/)
 
 
  
