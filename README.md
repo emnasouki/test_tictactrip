@@ -35,12 +35,12 @@
 
 
 <!-- À propos du projet -->
-## About The Project
+## À propos du projet
 
 Ce projet est réalisé dans le cadre d'un entretien technique avec la société Tictactrip.
 L'idée principale est de réaliser l'analyse des données de voyage fournies par la société.
 
-### Built With
+### Construit avec
 
 * [Jupyter](https://www.python.org/](https://jupyter.org/)
 * [Pandas](https://github.com/kevinzg/facebook-scraper](https://pandas.pydata.org/)
@@ -51,7 +51,7 @@ L'idée principale est de réaliser l'analyse des données de voyage fournies pa
  
  
 <!-- Pour commencer -->
-## Getting Started
+## Pour commencer
 
 
 ### Installation
@@ -65,7 +65,7 @@ L'idée principale est de réaliser l'analyse des données de voyage fournies pa
    $ cd test_tictactrip
    $ pip install -r requirements.txt
    ```
-### Usage
+### Utilisation
 1. Exécuter
    ```sh
    $ cd test_tictactrip/
