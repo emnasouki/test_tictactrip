@@ -17,16 +17,16 @@
   <summary><h2 style="display: inline-block">SOMMAIRE</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">À propos du projet</a>
+      <a href="#à-propos-du-projet">À propos du projet</a>
       <ul>
-        <li><a href="#built-with">Construit avec</a></li>
+        <li><a href="#construit-avec">Construit avec</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Pour commencer</a>
+      <a href="#pour-commencer">Pour commencer</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#usage">Utilisation</a></li>
+        <li><a href="#utilisation">Utilisation</a></li>
       </ul>
     </li>
   </ol>
